@@ -22,5 +22,3 @@ class Fighter extends Character {
     console.log(grace.whoAmI()); 
 
     console.log(`L'attaque magique ${this.attack} du combattant ${this.familyName} inflige : \n- Baisse des attaques adverses de pts pendant le tour suivant.\n- Un damage de 5pts \n- Un coût de 5 mana.`)
-
-
